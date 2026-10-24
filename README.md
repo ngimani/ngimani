@@ -14,4 +14,6 @@ I run packhouse operations and act as first-line NetSuite support for our ERP te
 - CISCP and CISCM (IPSCMI, 2025)
 - CIPS Level 4 in progress
 
+**Portfolio:** [ngimani.github.io](https://ngimani.github.io)
+
 **LinkedIn:** [linkedin.com/in/paulndoko](https://www.linkedin.com/in/paulndoko)
